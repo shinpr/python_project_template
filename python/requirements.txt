@@ -1,0 +1,2 @@
+injector==0.22.0
+setuptools==74.1.0
